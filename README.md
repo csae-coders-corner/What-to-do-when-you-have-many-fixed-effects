@@ -1,4 +1,4 @@
-# What to do when you have many fixed effects
+# What to Do When You Have Many Fixed Effects
 Using **regress** to estimate models with a large number of fixed effects runs into Stata memory problems. Plus, the regression takes a long time to execute. Here I outline an alternative that speeds up your regressions.
 
 Let’s say we want to regress average village consumption (y) on a set of village controls (x1 x2 x3), and include district fixed effects. This is easy to implement with 20 districts: 
