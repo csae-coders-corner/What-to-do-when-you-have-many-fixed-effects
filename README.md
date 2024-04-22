@@ -1,3 +1,6 @@
+
+![CC Graphics 2024_FixedEffects](https://github.com/csae-coders-corner/What-to-do-when-you-have-many-fixed-effects/assets/148211163/7e608633-5a18-4434-b5fb-620d09abf012)
+
 # What to Do When You Have Many Fixed Effects
 Using **regress** to estimate models with a large number of fixed effects runs into Stata memory problems. Plus, the regression takes a long time to execute. Here I outline an alternative that speeds up your regressions.
 
